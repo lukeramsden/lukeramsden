@@ -1,0 +1,29 @@
+{
+  "name": "lukeramsden",
+  "private": true,
+  "version": "1.0.0",
+  "repository": "https://github.com/lukeramsden/lukeramsden.git",
+  "author": "Luke Ramsden <lukeramsden@protonmail.com>",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^9.0.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  },
+  "browserslist": {
+    "production": [
+      ">1%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
