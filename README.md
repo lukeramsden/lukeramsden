@@ -10,7 +10,7 @@
   <li><a href="https://news.ycombinator.com/user?id=lukeramsden">news.ycombinator.com</a></li>
   <li><a href="https://github.com/lukeramsden">github.com</a></li>
   <li><a href="https://git.sr.ht/~lr/">git.sr.ht</a></li>
-  <li><a href="https://linkedin.com/in/lukeramsden8/">linkedin.com</a></li>
+  <li><a href="https://linkedin.com/in/lukerramsden/">linkedin.com</a></li>
 </ul>
 
 <hr/>
